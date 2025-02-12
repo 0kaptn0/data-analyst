@@ -16,3 +16,5 @@ Dash: For building the web application.
 Plotly: For creating interactive visualizations.
 Pandas: For data manipulation and analysis.
 Airline Dataset: Data sourced from U.S. Department of Transportation.
+
+#to run the project install the required packeges,run the #pip install pandas dash numpy in the terminal 
